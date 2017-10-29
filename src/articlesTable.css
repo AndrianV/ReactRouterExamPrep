@@ -1,0 +1,26 @@
+.articlesTable {
+    border: 2px solid #dddddd;
+    float: left;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    text-align: center;
+}
+
+.articleDetail {
+    float: left;
+    margin-left: 20px;
+    background-color: #f7f7f7;
+    padding: 0 40px 0 40px;
+}
+
+img {
+    width: 480px;
+    height: 320px;
+}
